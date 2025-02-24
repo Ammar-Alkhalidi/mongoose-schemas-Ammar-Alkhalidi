@@ -1,0 +1,27 @@
+{
+  "name": "be-14-mongoose-schemas-ammar-alkhalidi",
+  "version": "1.0.0",
+  "description": "Create a small API that can handle database interactions, while practising schema validation.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fit-in-Git/be-14-mongoose-schemas-Ammar-Alkhalidi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fit-in-Git/be-14-mongoose-schemas-Ammar-Alkhalidi/issues"
+  },
+  "homepage": "https://github.com/Fit-in-Git/be-14-mongoose-schemas-Ammar-Alkhalidi#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.10.1"
+  }
+}
